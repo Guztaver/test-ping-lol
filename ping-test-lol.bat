@@ -4,7 +4,7 @@
 @echo.                
 
 
-@echo O programa enviaram *20* pacotes para o servidor BR do LoL, se deseja cancelar antes, aperte *CTRL C*
+@echo O programa enviaram *20* pacotes para o servidor Brasileiro de LoL, se deseja cancelar antes, aperte *CTRL C*
 @echo.
 
 @echo Se o ping estiver maior que 200 o app retornara um erro!
